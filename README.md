@@ -18,7 +18,7 @@ SwiftUI
 🚀 Getting Started
 
 Clone the repository:
-git clone https://github.com/yourusername/RandomNFLTeamGenerator.git
+git clone [https://github.com/yourusername/RandomNFLTeamGenerator.git](https://github.com/ItzCarz/NFL-Shuffle-Game)
 cd RandomNFLTeamGenerator
 Open the .xcodeproj or .xcodeworkspace file in Xcode.
 Build and run the project using the simulator or your iOS device.
